@@ -8,7 +8,7 @@ import User from '../models/userModel.js'
 // sendgrid
 import sgMail from '@sendgrid/mail'
 sgMail.setApiKey(
-  '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'
+  'unesite vaš API'
 )
 
 // @desc    Auth user & get token
